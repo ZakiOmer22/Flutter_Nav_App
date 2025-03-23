@@ -1,16 +1,55 @@
-# navigation_app
+# Navigation App
 
-A new Flutter project.
+A Flutter project that demonstrates navigation between screens.
+
+## Description
+
+The Navigation App is a sample Flutter application that showcases effective routing and data management between screens. As a beginner-friendly project, it provides a solid foundation for those looking to understand Flutter's navigation capabilities.
+
+## Features
+
+- Navigate between multiple screens.
+- Pass data between screens.
+- Back navigation handling.
+- Clean and responsive UI design.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/username/navigation_app.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navigate into the project directory:
+
+   ```bash
+   cd navigation_app
+   ```
+
+3. Get the dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## Dependencies
+
+- Flutter SDK (version >=3.0.0)
+- Other packages (list them here if applicable)
+
+## Author
+
+Github - [Zacki Abdulkadir Omer]([https://github.com/ZakiOmer22])
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
